@@ -19,7 +19,7 @@ class Smallest{
 		int n=str.length();
 		
 		String small=str;
-		for(int l=2;l<=n-1;l++){
+		for(int l=2;l<=n;l++){
 		    
 		    for(int i=0;i<=n-l;i++){
 		        
